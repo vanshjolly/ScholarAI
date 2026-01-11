@@ -1,0 +1,7 @@
+{
+  "name": "ScholarAI",
+  "description": "An all-in-one AI-powered companion for college students to manage exams, study concepts, track tasks, and monitor mental well-being using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
